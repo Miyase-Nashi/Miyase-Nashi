@@ -2,7 +2,7 @@
 
 `北京林业大学 · 电子信息科学与技术本科生 | 🌱`
 
-📍 Beijing, China · 🎓 BFU · 💡 量子信息 · 量子计算 · 通信算法
+📍 Beijing, China · 🎓 BFU · 🌱 EE Undergraduate · 💡 Quantum Information · Quantum Computing · Communication Algorithms
 
 > 📌 Currently working hard & preparing for graduate entrance exams.
 
