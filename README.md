@@ -15,6 +15,7 @@
 同时也在做一些小项目保持手感：
 
 - 💻 **[Computer Interface Tech Quiz](https://miyase-nashi.github.io/Computer-Interface-Tech-Quiz/)** — 计算机接口技术 500 题刷题应用 🔗
+- 📚 **[Study Notes](https://github.com/Miyase-Nashi/Study-Notes)** — 考研数学一复习笔记（12 章节完整版）📖
 
 ---
 
